@@ -1,0 +1,23 @@
+﻿App Name: FloraPulse
+Version: 1.0.0
+Platform: Android / iOS
+Category: Indoor Plants / AI Diagnosis
+Target Market: Global
+Price Model: Free 5 diagnoses/month + $4.99/month Pro
+
+Description:
+A specialized indoor plant care journal that uses your phone camera to analyze leaves for color changes, diagnosing watering, lighting, humidity, or nutrient issues instantly.
+
+Key Features:
+- Plant collection with photos, species, pot date
+- AI camera diagnosis: point at leaf → get instant diagnosis
+- Diagnoses: overwatered, underwatered, too much sun, root bound, nutrient deficiency
+- Smart watering schedule based on plant type + your humidity zone
+- Fertilization reminders with seasonal adjustments
+- Growth photo timeline (weekly photo log showing plant growth)
+- Species database: 500+ common houseplants with care guides
+- Community: share plant photos and get tips from other plant parents
+
+Target Audience: Plant enthusiasts aged 22-40, apartment dwellers, plant collectors
+Competitors: PictureThis, Planta, Greg
+Unique Value: Real-time camera diagnosis vs schedule-only apps
